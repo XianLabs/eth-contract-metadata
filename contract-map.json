@@ -1,4 +1,11 @@
 { 
+   "0x37737ad7e32ed440c312910cfc4a2e4d52867caf": {
+    "name": "Chimera",
+    "logo": "chimera_icon.png",
+    "erc20": true,
+    "symbol": "CMRA",
+    "decimals": 3
+  },  
   "0x4575f41308EC1483f3d399aa9a2826d74Da13Deb": {
     "name": "Orchid",
     "logo": "OXT.svg",
